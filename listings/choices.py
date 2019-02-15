@@ -32,7 +32,7 @@ state_choices = {
         'AZ': 'Arizona',
         'CA': 'California',
         'CO': 'Colorado',
-        'CT': 'Connecticut',
+        'CT': 'Connecticut', 
         'DC': 'District of Columbia',
         'DE': 'Delaware',
         'FL': 'Florida',
